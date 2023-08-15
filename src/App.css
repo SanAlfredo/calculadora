@@ -5,6 +5,41 @@
   text-align: center;
 }
 
+.App {
+  height: 100vh;
+  padding-top: 10px;
+  font-family: Lato, sans-serif;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.contenedor-calcu {
+  width: 400px;
+  height: 800px;
+  padding: 14px;
+  background-color: rgb(115, 124, 99);
+  border-radius: 20px;
+  border: 5px solid;
+}
+.contenedor-especial{
+  width: 400px;
+  height: 200px;
+  background-color: rgb(115, 124, 99);
+}
+.fila {
+  margin: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fila-especial{
+  margin: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

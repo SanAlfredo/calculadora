@@ -16,7 +16,7 @@
 }
 .contenedor-calcu {
   width: 400px;
-  height: 800px;
+  height: 680px;
   padding: 14px;
   background-color: rgb(115, 124, 99);
   border-radius: 20px;
@@ -24,7 +24,7 @@
 }
 .contenedor-especial{
   width: 400px;
-  height: 200px;
+  height: 230px;
   background-color: rgb(115, 124, 99);
 }
 .fila {
@@ -39,7 +39,13 @@
   align-items: center;
   justify-content: center;
 }
-
+.Instrucciones{
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace;
+}
 .logo {
   height: 6em;
   padding: 1.5em;

@@ -4,6 +4,7 @@ import Boton from "./components/Boton";
 import BotonEspecial from "./components/BotonEspecial";
 import Pantalla from "./components/Pantalla";
 import BotonLimpiar from "./components/BotonLimpiar";
+import PiePagina from "./components/Footer";
 import {
   derivative,
   e,
@@ -190,6 +191,9 @@ function App() {
           </div>
         </div>
       </div>
+      <PiePagina>
+        
+      </PiePagina>
     </>
   );
 }

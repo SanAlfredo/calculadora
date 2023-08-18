@@ -3,6 +3,8 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: darkslategray;
+  color: white;
 }
 
 .App {
@@ -13,6 +15,7 @@
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  background-color: cadetblue;
 }
 .contenedor-calcu {
   width: 400px;

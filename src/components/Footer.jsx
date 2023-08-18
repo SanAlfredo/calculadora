@@ -15,10 +15,10 @@ class PiePagina extends Component {
             <a>
               <img src={whatsapp} style={{ width: 100 }}></img>
             </a>
-            <a href="https://www.facebook.com/sanalfredo" target="_blank">
+            <a href="https://www.facebook.com/sanalfredo/?viewas=100000686899395" target="_blank">
             <img src={facebook} style={{ width: 100 }}></img>
             </a>
-            <a href="https://github.com/SanAlfredo?tab=repositories" target="_blank">
+            <a href="https://github.com/SanAlfredo/calculadora" target="_blank">
             <img src={github} style={{ width: 100 }}></img>
             </a>
             
